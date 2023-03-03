@@ -23,5 +23,3 @@ app.maximize()
 app.minimize()
 app.send("Python")
 app.kill()
-# Search on Screen
-auto.image_search("icon.png")
